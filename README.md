@@ -32,11 +32,16 @@
 
 ## Input:
 
+![Screenshot 2025-05-27 150129](https://github.com/user-attachments/assets/82b63d94-5ef1-471d-b7bf-5de8223b9c65)
+
+
 ### Output:
+![Screenshot 2025-05-27 150142](https://github.com/user-attachments/assets/931c5ab3-61a4-4a9a-98a7-238ee032da0c)
 
 
-### Name:
-### Register Number:
+
+### Name: SRUTHI A
+### Register Number: 21222240162
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
